@@ -12,4 +12,4 @@ do sim.do
 You should see the following wave diagram.
 
 
-<img src="wave.png" href="wave.png" width="80%"/>
+<a href="./wave.png"><img src="wave.png"  width="100%"/></a>
